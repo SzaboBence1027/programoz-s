@@ -1,0 +1,18 @@
+body{
+    background-color: #1a72a1 !important;
+
+}
+h1{
+    text-align:center;
+    color: black;
+    text-decoration: solid;
+}
+div{
+background-color: silver;
+align-self:  center;
+text-align: center;
+padding: 5%;
+}
+h2{text-align: center;}
+.hater{background-color: #1a72a1;}
+.meret{width: 10%;}
