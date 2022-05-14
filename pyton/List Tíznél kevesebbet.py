@@ -1,3 +1,7 @@
+
+
+
+
 lista=[1,2,3,4,5,8,13,21,34,55,89]
 
 i=0
@@ -30,3 +34,14 @@ while i<len(lista):
         felhasznaloslista.append(lista[i])
     i=i+1
 print(felhasznaloslista)  
+
+
+
+
+for n in lista :
+    if n<bekertszam:
+        print(n)
+
+for n in range(len(lista)) :
+    if lista[n]<bekertszam:
+        print(lista[n])
