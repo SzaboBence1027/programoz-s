@@ -1,0 +1,72 @@
+body{
+  background-size: 70px 70px;
+  background-repeat: repeat-y;
+  background-position: right top;
+  padding: 15px 95px 15px 15px;
+    background-color: #720000;
+    color: white;
+    font-family: "Comic Sans MS";
+}
+#fejlec{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+   border-style:dashed;
+    color: #720000;
+    text-align:center;
+}
+
+#cimkep{
+  float:left;  
+}
+
+#erdekesseg{
+  width:450px;
+  float:right;
+  margin: 0px 0px 20px 15px;
+  background-color: #ffffcc;
+  -ms-transform: rotate(5deg);
+  -webkit-transform: rotate(5deg);
+  transform: rotate(5deg)
+}
+
+h1{
+  font-size:30pt;
+  color:#720000;
+
+}
+
+.jobbra{
+  text-align: right;
+  float:right;
+  border-style:dashed;
+  margin:15px;
+}
+
+
+.keret{
+  font-size: 90%;
+  padding: 7px;
+  font-weight: normal;
+  color:#720000;
+    background-color: white;
+   border-color:black;
+  border-style:dashed;
+}
+
+li{
+  font-weight:bold;
+}
+h2{
+    font-size: 20px;
+    text-decoration: underline;
+}
+p{
+    text-align: justify;
+}
+a{
+	color:white;
+}
+li{
+    list-style-image: url(jel.png);
+}

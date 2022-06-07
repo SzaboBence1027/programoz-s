@@ -1,0 +1,27 @@
+body{
+    background-color: #800000;
+    color: #800000;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: antiquewhite;
+    color: #800000;
+    border: 1px;
+}
+h1{
+    text-align: center;
+}
+
+
+.jobbra{
+   margin-left: 80%;
+   margin-right: auto
+}
+
+.masodikweboldal{
+    background-color: antiquewhite;
+    color: #800000;
+}
