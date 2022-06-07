@@ -17,11 +17,16 @@ h1{
 
 
 .jobbra{
-   margin-left: 80%;
-   margin-right: auto
+   margin-left: auto;
+   margin-right: 5%;
 }
 
 .masodikweboldal{
     background-color: antiquewhite;
     color: #800000;
+}
+th{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
 }
